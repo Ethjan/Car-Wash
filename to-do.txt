@@ -1,0 +1,4 @@
+-opisac subVi, uporzadkowac stany w JKI, 
+-dodac stany Unset UI Options - GOTOWE (chyba)
+-poprawic wyswietlanie odliczanego czasu, pomyslec jak zrobic wymagania na 4.5 i 5.0, 
+-sprawdzic o co chodzi z bledem po wciscnieciu stop!!!

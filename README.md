@@ -1,1 +1,2 @@
-# Car-Wash
+# CarWash
+Car wash application in LabVIEW
